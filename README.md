@@ -15,7 +15,7 @@ The questions we posed were:
   - Does this mirror the trends of global land and ocean temperatures?
 - How do these trends influence urbanization?
 
-  In pursuit of data analysis, the group created line plots of mean GDP growth globally, sum of CO₂ emmissions per year, global land and ocean temperature anomalies, and urban vs. rural populations. Additionally, a scatter plot for comparison of GDP per capita and CO₂ per capita was created in order to elucidate the trend. Also, using gmaps, a color-coded world map was created with 2019 GDP information. 
+In pursuit of data analysis, the group created line plots of mean GDP growth globally, sum of CO₂ emmissions per year, global land and ocean temperature anomalies, and urban vs. rural populations. Additionally, a scatter plot for comparison of GDP per capita and CO₂ per capita was created in order to elucidate the trend. Also, using gmaps, a color-coded world map was created with 2019 GDP information. 
 
 Though success was found in data visualization, there could be more statistical comparison between the chosen indicators. Future extensions to this project could look into economic indices like income share held by lowest 20% in order to investigate the social effects of capitalism compared to the environmental ones. Also, instead of a global scale, the data could be grouped by region or country in order to compare data more specifically. 
 
