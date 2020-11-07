@@ -1,4 +1,4 @@
-# Project1_World-Bank-Indicators
+# WorldBankIndicatorsFinal-Project1
 
   This project looks into indicators of world development from the World Bank DataBank in order to understand how the trajectory of economic growth influences the environment to shed light on profit-driven motives in place of environmental stewardship. The tools used to answer this question included **Jupyter Notebook**, **Python**, **Pandas**, **Gmaps**, **Google API**, **Bokeh**, and **Matplotlib**.
 
